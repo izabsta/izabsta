@@ -6,4 +6,4 @@
 
 
 
-[![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabsta)](https://github.com/anuraghazra/github-readme-stats)
+[![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabsta&?hide=issues)](https://github.com/anuraghazra/github-readme-stats)
