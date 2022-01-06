@@ -1,9 +1,3 @@
 # Hi, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-
-
-
-
-
-[![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=izabsta&?hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)
+This is Iza - a data enthusiast and a keen learner. Follow me along on my data science journey! :smirk:
